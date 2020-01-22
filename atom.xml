@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Magic Sunshine</title>
   
-  
+  <subtitle>安静等阳光</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://603946254.github.io/"/>
