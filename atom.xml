@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Magic Sunshine</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://603946254.github.io/"/>
+  <updated>2020-01-22T09:23:24.562Z</updated>
+  <id>https://603946254.github.io/</id>
+  
+  <author>
+    <name>Magic Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IDEA快捷键</title>
+    <link href="https://603946254.github.io/2018/09/30/idea-kuai-jie-jian/"/>
+    <id>https://603946254.github.io/2018/09/30/idea-kuai-jie-jian/</id>
+    <published>2018-09-30T09:25:30.000Z</published>
+    <updated>2020-01-22T09:23:24.562Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;快速查找&quot;&gt;&lt;a href=&quot;#快速查找&quot; class=&quot;headerlink&quot; title=&quot;快速查找&quot;&gt;&lt;/a&gt;快速查找&lt;/h3&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
